@@ -28,4 +28,4 @@ Hệ thống IoT sử dụng ESP32 để giám sát nhiệt độ, độ ẩm kh
 
 - **Họ tên:** Huỳnh Đặng Phương Âu  
 - **Vai trò:** Thiết kế – Lập trình – Tích hợp hệ thống  
-- **Sinh viên năm 4 – Công nghệ Kỹ thuật máy tính**
+- **Sinh viên Công nghệ Kỹ thuật máy tính**
