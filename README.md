@@ -20,5 +20,12 @@ Hệ thống IoT sử dụng ESP32 để giám sát nhiệt độ, độ ẩm kh
 - Điều khiển bật/tắt bơm tự động khi đất khô  
 - Nhận lệnh từ người dùng qua Telegram (/pumpon, /pumpoff, /status)  
 - Cập nhật thời tiết hiện tại qua OpenWeatherMap API  
-![image](https://github.com/user-attachments/assets/2820e249-2050-41e3-982d-ac5100a760fe)
 
+## 📷 Mô phỏng hoạt động
+![image](https://github.com/user-attachments/assets/ec91d82a-3979-48c7-ab96-3c0af29604c5)
+
+## 📝 Tác giả
+
+- **Họ tên:** Huỳnh Đặng Phương Âu  
+- **Vai trò:** Thiết kế – Lập trình – Tích hợp hệ thống  
+- **Sinh viên năm 4 – Công nghệ Kỹ thuật máy tính**
